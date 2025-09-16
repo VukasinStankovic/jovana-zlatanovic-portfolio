@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Garde';
+    src: url('Garde.eot');
+    src: local('Garde'),
+        url('Garde.eot?#iefix') format('embedded-opentype'),
+        url('Garde.woff2') format('woff2'),
+        url('Garde.woff') format('woff'),
+        url('Garde.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
